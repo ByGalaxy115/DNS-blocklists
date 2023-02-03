@@ -1,2 +1,2 @@
 Blocklist reminder 
-https://ls-ma.ocps.net/log_in
+ls-ma.ocps.net
